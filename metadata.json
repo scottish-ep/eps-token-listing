@@ -1,0 +1,15 @@
+{
+    "chainId": 101,
+    "address": "3kkx7qQericXNWEJWfcisRPKHi13gXehcneHZQHMNbfq",
+    "symbol": "EPS",
+    "name": "EP Token",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3kkx7qQericXNWEJWfcisRPKHi13gXehcneHZQHMNbfq/logo.png",
+    "tags": [
+      "currency"
+    ],
+    "extensions": {
+      "facebook": "https://www.facebook.com/Eastplayers.tech",
+      "website": "https://eastplayers.io/"
+    }
+}
