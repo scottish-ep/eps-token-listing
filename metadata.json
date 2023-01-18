@@ -1,15 +1,6 @@
 {
-    "chainId": 101,
-    "address": "3kkx7qQericXNWEJWfcisRPKHi13gXehcneHZQHMNbfq",
-    "symbol": "EPS",
-    "name": "EP Token",
-    "decimals": 9,
-    "logoURI": "https://tribes-image.s3.ap-southeast-1.amazonaws.com/files/4ad1b051c3c2ca50c1efd2cf75cba361.png",
-    "tags": [
-      "currency"
-    ],
-    "extensions": {
-      "facebook": "https://www.facebook.com/Eastplayers.tech",
-      "website": "https://eastplayers.io/"
-    }
+  "name": "EP Token",
+  "symbol": "EPS",
+  "description": "EP Token 1.0",
+  "image": "https://tribes-image.s3.ap-southeast-1.amazonaws.com/files/4ad1b051c3c2ca50c1efd2cf75cba361.png"
 }
